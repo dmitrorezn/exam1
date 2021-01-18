@@ -1,0 +1,7 @@
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\obj\Debug\examLIFO.csprojAssemblyReference.cache
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\obj\Debug\examLIFO.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\bin\Debug\examLIFO.exe.config
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\bin\Debug\examLIFO.exe
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\bin\Debug\examLIFO.pdb
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\obj\Debug\examLIFO.exe
+C:\Users\dmitr\source\repos\examLIFO\examLIFO\obj\Debug\examLIFO.pdb
